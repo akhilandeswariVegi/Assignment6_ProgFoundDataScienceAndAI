@@ -1,2 +1,2 @@
-# Assignment7_ProgFoundDataScienceAndAI
-Prog Found Data Science And AI - Assignment7
+# Assignment6_ProgFoundDataScienceAndAI
+Prog Found Data Science And AI - Assignment6
